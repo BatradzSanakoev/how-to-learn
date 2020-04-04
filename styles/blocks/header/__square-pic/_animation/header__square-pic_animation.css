@@ -1,0 +1,14 @@
+@keyframes square_rotation {
+  from {
+    transform: rotate(-15deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+.header__square-pic_animation {
+  animation: square_rotation ease-in-out 20s infinite;
+}

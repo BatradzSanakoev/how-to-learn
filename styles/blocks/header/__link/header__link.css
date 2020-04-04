@@ -4,5 +4,7 @@
 }
 
 .header__link:hover {
-  color: white;
+  color: #000000;
+  opacity: .5;
+  transition: opacity .7s ease;
 }

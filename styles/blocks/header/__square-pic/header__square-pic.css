@@ -1,4 +1,5 @@
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
+@import url('./_animation/header__square-pic_animation.css');
+
 .header__square-pic {
   position: absolute;
   top: 64px;

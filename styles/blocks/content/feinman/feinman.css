@@ -1,0 +1,24 @@
+@import url('./__title/feinman__title.css');
+@import url('./__subtitle/feinman__subtitle.css');
+@import url('./__link/feinman__link.css');
+
+.feinman {
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  position: relative;
+  background-image: url('../../../../images/feinman.png');
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  background-size: 867px 637px;
+  min-height: 800px;
+}
+
+/* .feinman__image {
+    width: 867px;
+    height: 637px;
+    background-image: url('../images/feinman.png');
+    align-self: flex-start;
+} */

@@ -1,7 +1,7 @@
 @import url('./_animation/kaufman__triangle-animation.css');
 
 .kaufman__triangle {
-  background-image: url('../../../../../images/triangle.svg');
+  background-image: url('../../../images/triangle.svg');
   background-size: contain;
   position: absolute;
   top: 0;

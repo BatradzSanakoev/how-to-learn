@@ -1,5 +1,4 @@
 .resources__link:hover {
-  border: 1px solid #f2f2f2;
   opacity: .7;
   transition: opacity .5s ease ;
 }
